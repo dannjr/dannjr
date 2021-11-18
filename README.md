@@ -21,6 +21,16 @@
  
  ##
  
+ <p align="center"> 
+
+ ## Contador de visistas
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/dannjr/count.svg" />
+ </p>
+
+</p>
+ ##
+ 
   ![Snake animation](https://github.com/dannjr/dannjr/blob/output/github-contribution-grid-snake.svg)
  
  
