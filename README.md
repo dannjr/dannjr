@@ -1,5 +1,5 @@
 
-## Bem vindo dev!
+## Olá me chamo Damiro!
  
  
  <div align="center">
@@ -34,7 +34,7 @@
   
  <p align="center"> 
 
- ## Contador de visistas
+ ## Contador de visistas :shipit:
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/dannjr/count.svg" />
  </p>
